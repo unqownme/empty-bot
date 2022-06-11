@@ -3,8 +3,6 @@ Unqown gelişmiş context menülü, slash komutlu, çok prefixli boş altyapı �
 
 <p>‏‏‏‏‏‏‏‏   </p>
 
-<p>‏‏‏‏‏‏‏‏   </p>
-
 # Projeyi Çalıştırma ⚙️
 ```bash
 npm install pnpm
